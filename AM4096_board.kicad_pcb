@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.4+e1-6308~48~ubuntu15.10.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.6-e0-6349~53~ubuntu16.04.1)
 
   (general
     (links 28)
     (no_connects 1)
-    (area 141.136086 97.8568 158.113914 114.7232)
+    (area 129.489287 97.8568 159.473215 120.825001)
     (thickness 1)
     (drawings 12)
     (tracks 121)
@@ -588,7 +588,7 @@
       (net 3 "Net-(C3-Pad2)"))
     (pad 31 smd oval (at -1.625 -2.95) (size 0.25 0.7) (layers F.Cu F.Paste F.Mask))
     (pad 32 smd oval (at -2.275 -2.95) (size 0.25 0.7) (layers F.Cu F.Paste F.Mask))
-    (model ../../../../../home/luis/kicad/_3Dmodels/Housings_DFN_QFN.3dshapes/QFN-32-1EP_6x6mm_Pitch0.65mm.wrl
+    (model Housings_DFN_QFN.3dshapes/QFN-32-1EP_6x6mm_Pitch0.65mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
